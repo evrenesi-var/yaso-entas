@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DesignMate AI",
+  "description": "An all-in-one assistant for Industrial Design students to streamline market research, visual rendering, storyboard creation, and brand moodboard generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
